@@ -1,0 +1,16 @@
+.mini-profile.roleplay-alt{
+    background-color:#101010;   
+}
+.roleplay_full_post {
+   padding-top:1px;
+   padding-left:4px;
+}
+select#roleplay_profile_edit{
+    padding-top:0px;
+}
+.roleplay_quick_post {
+   margin-left:10px;
+}
+.alt-italics {
+   font-style:italic!important;
+}
